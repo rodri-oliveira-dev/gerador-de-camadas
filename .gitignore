@@ -1,16 +1,26 @@
-bin
-obj
-/2.0/DataDrain/DataDrain.BusinessLayer/obj
-/2.0/DataDrain/DataDrain.BusinessLayer/bin
-/2.0/DataDrain/DataDrain.Databases.MySql/obj
-/2.0/DataDrain/DataDrain.Databases.MySql/bin
-/2.0/DataDrain/DataDrain.Databases.SqlServer/obj
-/2.0/DataDrain/DataDrain.Databases.SqlServer/bin
-/2.0/DataDrain/DataDrain.Interfaces/obj
-/2.0/DataDrain/DataDrain.Interfaces/bin
-/2.0/DataDrain/DataDrain.IO/obj
-/2.0/DataDrain/DataDrain.IO/bin
-/2.0/DataDrain/DataDrain.Library/obj
-/2.0/DataDrain/DataDrain.Library/bin
-/2.0/DataDrain/DataDrain.UI.WinForm/obj
-/2.0/DataDrain/DataDrain.UI.WinForm/bin
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio / IDE user state
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+# NuGet package restore output
+packages/
+*.nupkg
+
+# Debug symbols and symbol caches
+*.pdb
+*.pdb/
+
+# Signing keys and certificates — never commit private key material
+*.snk
+*.pfx
+*.p12
+*.pem
+*.key
