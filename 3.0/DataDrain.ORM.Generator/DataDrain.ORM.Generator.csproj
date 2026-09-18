@@ -230,7 +230,6 @@
     <None Include="Resources\1373099491_sync.png" />
     <None Include="Resources\1374174060_accept.png" />
     <None Include="Resources\1374174076_cancel.png" />
-    <None Include="TextFile1.txt" />
     <None Include="Resources\1454543275_icon-89-document-file-sql.png" />
     <Content Include="xmlRegExp.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
