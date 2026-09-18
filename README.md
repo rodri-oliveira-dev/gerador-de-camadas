@@ -115,6 +115,12 @@ Foram removidos apenas artefatos que não agregavam valor histórico ou que não
 
 O código-fonte, a estrutura das versões e os elementos que ajudam a compreender o funcionamento e a evolução do projeto foram mantidos.
 
+## Contribuindo
+
+Este projeto não está mais em desenvolvimento ativo. Contribuições são limitadas principalmente à preservação e à documentação do projeto.
+
+Consulte [CONTRIBUTING.md](CONTRIBUTING.md) antes de abrir uma issue ou Pull Request.
+
 ## Status
 
 Este projeto está **arquivado conceitualmente** e não recebe desenvolvimento de novas funcionalidades.
