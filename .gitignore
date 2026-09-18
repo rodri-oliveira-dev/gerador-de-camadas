@@ -17,3 +17,10 @@ packages/
 # Debug symbols and symbol caches
 *.pdb
 *.pdb/
+
+# Signing keys and certificates — never commit private key material
+*.snk
+*.pfx
+*.p12
+*.pem
+*.key

@@ -65,13 +65,8 @@
   <PropertyGroup>
     <SignManifests>false</SignManifests>
   </PropertyGroup>
-  <PropertyGroup>
-    <ManifestCertificateThumbprint>5F2DDB5638CBB3186A4138E0B076CC395DA21F5C</ManifestCertificateThumbprint>
-  </PropertyGroup>
-  <PropertyGroup>
-    <ManifestKeyFile>DataDrain.ORM.Generator_TemporaryKey.pfx</ManifestKeyFile>
-  </PropertyGroup>
-  <PropertyGroup>
+
+<PropertyGroup>
     <TargetZone>LocalIntranet</TargetZone>
   </PropertyGroup>
   <PropertyGroup>
@@ -83,10 +78,7 @@
   <PropertyGroup>
     <SignAssembly>false</SignAssembly>
   </PropertyGroup>
-  <PropertyGroup>
-    <AssemblyOriginatorKeyFile>teste.snk</AssemblyOriginatorKeyFile>
-  </PropertyGroup>
-  <ItemGroup>
+<ItemGroup>
     <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs">
       <HintPath>..\packages\Microsoft.VisualBasic.PowerPacks.Vs.dll</HintPath>
     </Reference>
@@ -216,8 +208,6 @@
       <DesignTime>True</DesignTime>
     </Compile>
     <None Include="app.config" />
-    <None Include="DataDrain.ORM.Generator_TemporaryKey.pfx" />
-    <None Include="DataDrain.ORM.snk" />
     <None Include="packages.config" />
     <None Include="Properties\app.manifest" />
     <None Include="Properties\Settings.settings">
@@ -240,7 +230,6 @@
     <None Include="Resources\1373099491_sync.png" />
     <None Include="Resources\1374174060_accept.png" />
     <None Include="Resources\1374174076_cancel.png" />
-    <None Include="teste.snk" />
     <None Include="TextFile1.txt" />
     <None Include="Resources\1454543275_icon-89-document-file-sql.png" />
     <Content Include="xmlRegExp.xml">

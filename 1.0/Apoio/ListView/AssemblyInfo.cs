@@ -13,7 +13,6 @@ using System.Reflection;
 [assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: AssemblyKeyFile(@"..\..\DataDrain.ORM.snk")]
 
 //
 // Version information for an assembly consists of the following four values:
@@ -49,9 +48,7 @@ using System.Reflection;
 //       relative to the project output directory which is
 //       %Project Directory%\obj\<configuration>. For example, if your KeyFile is
 //       located in the project directory, you would specify the AssemblyKeyFile 
-//       attribute as [assembly: AssemblyKeyFile("..\\..\\mykey.snk")]
 //   (*) Delay Signing is an advanced option - see the Microsoft .NET Framework
 //       documentation for more information on this.
-//[assembly: AssemblyKeyFile("..\\..\\glaciallist.snk")]
 //
 
